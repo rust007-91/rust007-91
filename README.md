@@ -23,7 +23,7 @@
 </h2>
 
 ### :man_technologist: Обо мне :
-Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Я Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :dart: Стремлюсь стать разработчиком.
 - :computer: Пишу код, набиваю шишки, пишу код.
 - 🔭 Хочу работать в команде лучших и осваивать новые фрэйморки.
